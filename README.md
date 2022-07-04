@@ -12,7 +12,7 @@
 | [Python-разработчик](https://practicum.yandex.ru/profile/backend-developer/) | [Яндекс Практикум](https://practicum.yandex.ru/) | Сompleted free part |
 | [Основы Python 3](https://www.udemy.com/course/python-3-c/) | [Udemy](https://www.udemy.com/) | Сompleted |
 | [Программирование на Python](https://stepik.org/course/67/info) | [Stepik](https://stepik.org/catalog) | [Completed](https://github.com/PavelMayorov/education_roadmap/blob/main/Certificates/stepik-certificate%2015.04.22.pdf) |
-| Python для начинающих | [Пермский сетевой IT-университет](https://epos.permkrai.ru/perm-itnetwork/) | Completed |
+| Python для начинающих | [Пермский сетевой IT-университет](https://epos.permkrai.ru/perm-itnetwork/) | [Completed](https://github.com/PavelMayorov/education_roadmap/blob/main/Certificates/it_univer%20sertificate%2007.12.21.pdf) |
 | [Поколение Python: курс для продвинутых](https://stepik.org/course/68343/info) | [Stepik](https://stepik.org/catalog) | In progress |
 ## Books
 | Title | Author | Status (Educational project) |
